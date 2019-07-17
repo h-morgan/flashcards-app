@@ -1,0 +1,517 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "que": "The use of a security policy to define management intention is an example of which access control type?",
+            "a": "A. Administrative",
+            "b": "B. Physical",
+            "c": "C. Technical",
+            "d": "D. Preventative",
+            "ans": "A. Administrative"
+        },
+        {
+            "id": 2,
+            "que": "Which statement about guidelines is correct?",
+            "a": "A. They describe the steps required to complete and activity.",
+            "b": "B. They describe a required use of specific tools.",
+            "c": "C. They are recommended settings or actions.",
+            "d": "D. They specify the minimum security required for a system.",
+            "ans": "C. They are recommended settings or actions."
+        },
+        {
+            "id": 3,
+            "que": "The CIA triad is considered centra to security. Which option best describes what it helps protect against?",
+            "a": "A. Disclosure, loss, and leakage",
+            "b": "B. Destruction, alteration, and disclosure",
+            "c": "C. Confidentiality, integrity, and availability",
+            "d": "D. Unavailability, downtime, and destruction",
+            "ans": "B. Destruction, alteration, and disclosure"
+        },
+        {
+            "id": 4,
+            "que": "Which statement best describes security policies?",
+            "a": "A. They are operational instructions for implementing security.",
+            "b": "B. They document high level expectations from senior management.",
+            "c": "C. They detail tactical instructions for implementing security.",
+            "d": "D. They are work procedures specified by senior management.",
+            "ans": "B. They document high level expectations from senior management."
+        },
+        {
+            "id": 5,
+            "que": "The first step in risk analysis is to:",
+            "a": "A. Conduct a threat assessment.",
+            "b": "B. Identify assets and their value.",
+            "c": "C. Identify potential vulnerabilities.",
+            "d": "D. Identify the countermeasures.",
+            "ans": "B. Identify assets and their value."
+        },
+        {
+            "id": 6,
+            "que": "A business impact analysis (BIA) often includes which of the following security processes?",
+            "a": "A. A vulnerability assessment.",
+            "b": "B. Installing network countermeasures.",
+            "c": "C. Training of key personnel.",
+            "d": "D. A disaster recovery process",
+            "ans": "A. A vulnerability assessment."
+        },
+        {
+            "id": 7,
+            "que": "Which statement best describes the primary purpose of a business continuity plan?",
+            "a": "A. To ensure that the company will recover from one-time disasters.",
+            "b": "B. To ensure business processes may continue after a disruption or crisis.",
+            "c": "C. To identify key players in the business and enable succession planning.",
+            "d": "D. To keep key business documents available when and where they are needed.",
+            "ans": "B. To ensure business processes may continue after a disruption or crisis."
+        },
+        {
+            "id": 8,
+            "que": "Which of the following demonstrate the legal concept of due care? (Choose 2)",
+            "a": "A. Providing appropriate security training for all employees.",
+            "b": "B. Performing background checks on all prospective employees.",
+            "c": "C. Securing customers' personal information on the organization's servers.",
+            "d": "D. Performing risk assessments on network systems.",
+            "ans": "A. and C."
+        },
+        {
+            "id": 9,
+            "que": "Your company just recently acquired a smaller organization in the same industry. Which of the following is the most significant security risk as a result of this acquisition?",
+            "a": "A. The other organization may have a different C-level structure than yours.",
+            "b": "B. There may be a disparity between each organization's level of security.",
+            "c": "C. The other organization may use different access control mechanisms than yours.",
+            "d": "D. There may be a disparity between each organization's security budget.",
+            "ans": "B. There may be a disparity between each organization's level of security."
+        },
+        {
+            "id": 10,
+            "que": "Which of the following is a privacy law that protects users' financial information when it is held by banks and other financial institutions?",
+            "a": "A. Sarbanes-Oxley Act (SOX)",
+            "b": "B. Electronic Communications Privacy Act (ECPA)",
+            "c": "C. Federal Information Security Management Act (FISMA)",
+            "d": "D. Gramm-Leach-Bliley Act (GLBA)",
+            "ans": "D. Gramm-Leach-Bliley Act (GLBA)"
+        },
+        {
+            "id": 11,
+            "que": "True or false? Patent protection is stronger and lasts longer than copyright protection.",
+            "a": "A. Empty me",
+            "b": "B. ",
+            "c": "C. ",
+            "d": "D. ",
+            "ans": "False"
+        },
+        {
+            "id": 12,
+            "que": "Which of the following is a comprehensive set of processes that can increase the effectiveness and decrease the complexity of security-focused operations?",
+            "a": "A. Governance, risk management, and compliance",
+            "b": "B. Governance, risk analysis, and risk mitigation",
+            "c": "C. Governance, risk management, and training",
+            "d": "D. Risk management, compliance, and training",
+            "ans": "A. Governance, risk management, and compliance"
+        },
+        {
+            "id": 13,
+            "que": "Which of the following are goals of the (ISC)^2 Code of Ethics? (Choose 3)",
+            "a": "A. Behaving responsibly, justly, honestly, honorably, and legally.",
+            "b": "B. Improving, enhancing, and protecting the profession.",
+            "c": "C. Ensuring, enabling, and supporting the exchange of free information.",
+            "d": "D. Providing adept, competent, and assidious service to principals.",
+            "ans": "A., B., and D."
+        },
+        {
+            "id": 14,
+            "que": "Which of the following are key tasks in upholding organizational ethics? (Choose 3)",
+            "a": "A. Weighing ethical actions in relation to cost or benefit to the organization.",
+            "b": "B. Hiring and retaining employees that have a strong ethical background.",
+            "c": "C. Acting responsibly to the organization's stakeholders and to the public.",
+            "d": "D. Adhering to established standards and laws that outline ethical behavior.",
+            "ans": "B., C., and D."
+        },
+        {
+            "id": 15,
+            "que": "True or false? In a Platform as a service (PaaS) model, the responsibility for security is on the vendor.",
+            "a": "A. Empty me",
+            "b": "B. ",
+            "c": "C. ",
+            "d": "D. ",
+            "ans": "False"
+        },
+        {
+            "id": 16,
+            "que": "The company you acquired had its own set of security policies that governed its operations. What is the most important thing to consider regarding these policies?",
+            "a": "A. Make sure the acquired company's policies don't contradict your own.",
+            "b": "B. Make sure the acquired company's policies are written in your style.",
+            "c": "C. Make sure the acquired company's policies address all of your systems.",
+            "d": "D. Make sure your policies incorporate every item from the acquired company's policies.",
+            "ans": "A. Make sure the acquired company's policies don't contradict your own."
+        },
+        {
+            "id": 17,
+            "que": "Which of the following is a rating system that determines the impact of a threat?",
+            "a": "A. Damage, interruption, reproducibility, exploitability (DIRE)",
+            "b": "B. Harm, affected users, reproducibility, manageabilitiy (HARM)",
+            "c": "C. Tampering, harm, reproducibility, exploitability, affected users, thoroughness (THREAT)",
+            "d": "D. Damage, reproducibility, exploitability, affected users, discoverability (DREAD)",
+            "ans": "D. Damage, reproducibility, exploitability, affected users, discoverability (DREAD)"
+        },
+        {
+            "id": 18,
+            "que": "The STRIDE acronym is a threat classification that includes which of the following?",
+            "a": "A. Spoofing, tampering, reflection, integrity violation, denial of service, escalation",
+            "b": "B. Spoofing, tampering, repudiation, information disclosure, denial of service, elevation of privilege",
+            "c": "C. Systems hacking, threatening, restructuring, information disclosure, destruction, elevation of privilege",
+            "d": "D. Systems hacking, tampering, repudiation, impersonation, destruction, elevation of privilege",
+            "ans": "B. Spoofing, tampering, repudiation, information disclosure, denial of service, elevation of privilege"
+        },
+        {
+            "id": 19,
+            "que": "What is the typical flow of a threat tree diagram, from top (beginning) to bottom (end)?",
+            "a": "A. Identify the threat, identify how to mitigate the threat, identify who or what should implement the mitigation",
+            "b": "B. Identify the threat, identify how the threat can occur, identify how to mitigate the threat",
+            "c": "C. Identify how the threat can occur, identify what systems are vulnerable, identify how to mitigate the threat",
+            "d": "D. Idenitfy how the threat can occur, identify the source of the threat, idenitfy how to mitigate the threat",
+            "ans": "B. Identify the threat, identify how the threat can occur, identify how to mitigate the threat"
+        },
+        {
+            "id": 20,
+            "que": "What is an employee's senstitivity profile?",
+            "a": "A. A description of the employee's technical level of access to sensitive systems.",
+            "b": "B. A description of the employee's trustworthiness with regard to keeping sensitive information secure.",
+            "c": "C. A description of the employee's need-to-know information based on their job role.",
+            "d": "D. A description of the employee's need-to-know information based on them as an individual.",
+            "ans": "C. A description of the employee's need-to-know information based on their job role."
+        },
+        {
+            "id": 21,
+            "que": "When providing security training to senior management and the board of directors, what should be the primary focus of this training?",
+            "a": "A. Basic computer security practices like using strong passwords and browsing the web safely.",
+            "b": "B. The details of security documents like policies, procedures, and guidelines.",
+            "c": "C. The importance of security in supporting business objectives, legal compliance, and shareholder expectations.",
+            "d": "D. The latest knowledge of the various threats and controls that affect information security.",
+            "ans": "C. The importance of security in supporting business objectives, legal compliance, and shareholder expectations."
+        },
+        {
+            "id": 22,
+            "que": "At minimum, how often should staff undergo security awareness training?",
+            "a": "A. Six months",
+            "b": "B. One year",
+            "c": "C. Two years",
+            "d": "D. Five years",
+            "ans": "B. One year"
+        },
+        {
+            "id": 23,
+            "que": "As part of a security training program, which of the following is the most important for all staff to learn?",
+            "a": "A. Best practice for VPN usage.",
+            "b": "B. How to clean an infected computer.",
+            "c": "C. How to properly wipe sensitive data.",
+            "d": "D. How to identify social engineering attempts.",
+            "ans": "D. How to identify social engineering attempts."
+        },
+        {
+            "id": 24,
+            "que": "What are the 3 security goal categories, designed to address short, medium, and long term goals? (List in order from short to long)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Operational (specific short-term), tactical (months/a year), strategic (years)"
+        },
+        {
+            "id": 25,
+            "que": "What is a control framework? Define and name 2 examples.",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "A control framework seeks to minimize the risk in an organization by creating a structure for the organization's security controls. They are a subset of overall security frameworks. 2 examples are NIST SP 800-53 and ISO 27001"
+        },
+        {
+            "id": 26,
+            "que": "Define: asset",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Anything of value that could be compromised, stolen, or harmed, includuing information, systems, personnel, physical resources, and reputation."
+        },
+        {
+            "id": 27,
+            "que": "Define: threat",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Any event or action that could potentially cause damage to an asset or an interruption of services."
+        },
+        {
+            "id": 28,
+            "que": "Define: threat actor",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "A person, group, or other entity that could potentially attack, damage, or otherwise compromise a system or resource."
+        },
+        {
+            "id": 29,
+            "que": "Define: vulnerability",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "A condition that leaves the system and its assets open to harm - including things such as software bugs, insecure passwords, inadequate physical security, poorly designed networks, or insufficient user training and awareness."
+        },
+        {
+            "id": 30,
+            "que": "Define: exploit",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "A technique that takes advantage of a vulnerability to perform an attack."
+        },
+        {
+            "id": 31,
+            "que": "Define: risk",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "The likelihood of a threat occurring, as well as its potential damage to assets."
+        },
+        {
+            "id": 32,
+            "que": "Define: control",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "A countermeasure that you put in place to avoid, mitigate, or counteract security"
+        },
+        {
+            "id": 33,
+            "que": "Define: attack",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "The active attempt by a threat actor to break into "
+        },
+        {
+            "id": 34,
+            "que": "Define: breach",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "The result of a successful attack. Can include theft, destruction, or loss of availability of data, a system, or other resources."
+        },
+        {
+            "id": 35,
+            "que": "Define: exposure",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "The level, usually expressed in percentage, to which a resource is at direct risk of attack."
+        },
+        {
+            "id": 36,
+            "que": "Define: social engineering",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "The practice of using deception and trickery against human beings as a method of attack."
+        },
+        {
+            "id": 37,
+            "que": "Define: defense in depth",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "The practice of providing security in multiple layers for more comprehensive protection against attack."
+        },
+        {
+            "id": 38,
+            "que": "Define: due care",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Behavioral expectations that organizations must adhere to. Ex: provide appropriate security training for all employees. 'Prudent person' or 'reasonable person' rule. Failing in due care is negligence, a legal offense."
+        },
+        {
+            "id": 39,
+            "que": "Define: due diligence",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Research necessary to make good, informed decisions. Ex: background checks on employees, testing of backup services."
+        },
+        {
+            "id": 40,
+            "que": "Privacy Act of 1974",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects privacy of individual info held by US government. Applies to all personal information, provides for restrictions on individual access, and enforces penalties for authorized disclosure."
+        },
+        {
+            "id": 41,
+            "que": "FERPA (Family Educational Rights and Privacy Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects privacy of educational information held in federally funded higher-learning institutions."
+        },        
+        {
+            "id": 42,
+            "que": "ECPA (Electronic Communications Privacy Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Made it a crime to snoop into employee activities while using electronic communications devices without notifying employees in advance of monitoring. Enforced requirement for legal authorization of wiretaps, other gov monitoring."
+        },        
+        {
+            "id": 43,
+            "que": "HIPAA (Health Insurance Portability and Accountability Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Originally intended to protect people with health insurance when they transferred from one company to another. The privacy component adopted in 2003 protects a class of information called Protected Health Information (PHI)."
+        },        
+        {
+            "id": 44,
+            "que": "SOX Act (Sarbanes-Oxley Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Controls how corporations self-report and audit. Requires retention of long-term email, voicemail, and instant messaging records in corporations."
+        },        
+        {
+            "id": 45,
+            "que": "Define: PHI",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Personal Health Information. Any information that can identify a particular patient and includes a patient's medical record or payment history."
+        },        
+        {
+            "id": 46,
+            "que": "GLBA (Gramm-Leach-Bliley Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects privacy of an individual's financial information as held by financial and other isntitutions. Includes privacy standard and rules to safeguard info; provides penalties for violations."
+        },        
+        {
+            "id": 47,
+            "que": "COPPA (Children's Online Privacy Protection Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects online privacy of children. Restrictions inlcude rights to: opt out of info sent by a provider; limit amount and type of info collected from children; require parental consent for info provided to children."
+        },        
+        {
+            "id": 48,
+            "que": "USA PATRIOT Act (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
+        },        
+        {
+            "id": 49,
+            "que": "FCRA (Fair Credit Reporting Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Provides consumers with ability to view, correct, contest, and limit use of their information in a credit report."
+        },
+        {
+            "id": 50,
+            "que": "FISMA (Federal Information Security Management Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Requires federal agencies to develop, document, and implement an agency-wide information security program."
+        },
+        {
+            "id": 51,
+            "que": "Cyber Security Enhancement Act",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Used to access and analyze law enforcement and intelligence information from government agencies to fight terrorism."
+        },
+        {
+            "id": 52,
+            "que": "ESIGN (Electronic Signatures in Global and National Commerce Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Facilitates use of electronic signatures and electronic records in both domestic (interstate) and foreign commerce."
+        },
+        {
+            "id": 53,
+            "que": "DMCA (US Digital Millenium Copyright Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Criminalizes dissemination of technologies or actual attempts to circumvent digital rights management of copyrighted works."
+        },
+        {
+            "id": 54,
+            "que": "Economic Espionage Act of 1996",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Makes theft of trade secrets and economic espionage a federal crime."
+        },
+        {
+            "id": 55,
+            "que": "What is the name of the framework that helps organizations comply with foreign laws and regulations?",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "US-EU Safe Harbor Protection Framework"
+        },
+        {
+            "id": 56,
+            "que": "EU GDPR applies to all organizations that offer goods or services to EU customers. What does it extend the concept of personal data to include?",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Photos/audio/video, social media posts, location data, financial transactions, device identifiers, login credentials, browsing history"
+        },
+        {
+            "id": 57,
+            "que": "CFAA (Computer Fraud and Abuse Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects government systems from illegal access or from exceeding access permissions. Prohibited activities include: retrieving information without authorization, trafficking passwords, sending viruses or worms to infect computers, etc."
+        }
+    ]
+}

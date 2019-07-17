@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to bottom right, rgb(158, 158, 235), rgb(198, 243, 184));
+  height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+.cardsTitle {
+  text-align: center;
+  padding-top: 20px;
+  text-shadow: 5px 5px 10px grey;
+}
+
+@media only screen and (max-width: 600px) {
+  .cardsTitle {
+    font-size: 1.4rem;
+  }
+}

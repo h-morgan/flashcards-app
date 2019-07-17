@@ -1,0 +1,132 @@
+.card-container {
+    cursor: pointer;
+    height: 400px;
+    max-width: 600px;
+    perspective: 600px;
+    transition: ease-in;
+    position: relative;
+    margin: auto;
+}
+
+.card {
+    border: 5px solid grey;;
+    border-radius: 7px;
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    transform-style: preserve-3d;
+    transition: all 0.7s ease-in-out;
+    margin: auto;
+}
+
+.card:hover {
+    transform: rotateY(180deg);
+    transition: all 0.7s ease-in-out;
+}
+
+.card .front {
+    height: 400px;
+    width: 600px;
+    backface-visibility: hidden;
+    position: absolute;
+    overflow: hidden;
+    background-color: rgb(238, 176, 176);
+    display: flex;
+    flex-direction: column;
+}
+
+.card .back {
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    transform: rotateY(180deg);
+    background-color: rgb(238, 176, 176);
+}
+
+
+.que {
+    padding: 30px 30px 10px 30px;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.a, .b, .c, .d {
+    padding: 10px 50px 5px 50px;
+
+}
+
+.ans {
+    padding: 100px 50px 0px 50px;
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .card-container {
+        cursor: pointer;
+        height: 400px;
+        max-width: 350px;
+        perspective: 350px;
+        transition: ease-in;
+        position: relative;
+        margin: auto;
+    }
+    
+    .card {
+        border: 5px solid grey;;
+        border-radius: 7px;
+        height: 400px;
+        width: 350px;
+        position: absolute;
+        transform-style: preserve-3d;
+        transition: all 0.7s ease-in-out;
+        margin: auto;
+    }
+    
+    .card:hover {
+        transform: rotateY(180deg);
+        transition: all 0.7s ease-in-out;
+    }
+    
+    .card .front {
+        height: 400px;
+        width: 350px;
+        backface-visibility: hidden;
+        position: absolute;
+        overflow: hidden;
+        background-color: rgb(238, 176, 176);
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .card .back {
+        height: 400px;
+        width: 350px;
+        text-align: center;
+        transform: rotateY(180deg);
+        background-color: rgb(238, 176, 176);
+    }
+    
+    
+    .que {
+        padding: 20px 20px 10px 20px;
+        text-align: center;
+        font-size: 1rem;
+        margin-bottom: 20px;
+        font-weight: 500;
+    }
+    
+    .a, .b, .c, .d {
+        padding: 5px 20px 5px 30px;
+        font-size: 0.8rem;
+    }
+    
+    .ans {
+        padding: 50px 20px 0px 20px;
+        font-size: 1rem;
+    }
+
+
+}
