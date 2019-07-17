@@ -512,6 +512,114 @@
             "c": "",
             "d": "",
             "ans": "Protects government systems from illegal access or from exceeding access permissions. Prohibited activities include: retrieving information without authorization, trafficking passwords, sending viruses or worms to infect computers, etc."
+        },
+        {
+            "id": 58,
+            "que": "CSA (Computer Security Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Key requirements: fulfill training needs and plan development for information and systems security. (Replaced by FISMA)"
+        },
+        {
+            "id": 59,
+            "que": "NIIPA (National Information Infrastructure Protection Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Created legal remedies for hacking, stealing trade secrets, and damaging systems and information. Targeted internet infrastructure security in particular."
+        },
+        {
+            "id": 60,
+            "que": "FISMA (Federal Information Security Management Act)",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Passed to remedy evolutionary nature of info systems security in federal government. Some key provisions include: define boundaries of system to be protected and identify types of info within that system; continuously monitor systems for proper operations; document and perform system risk assessments."
+        },
+        {
+            "id": 61,
+            "que": "Define: patent",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects item's creator from competition for a given time period. Very strong, but patent owners have responsibility to protect their patents. Strongest form of protection for IP. In the US, lasts for 20 years."
+        },
+        {
+            "id": 62,
+            "que": "Define: trademark",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "A design or phrase used to identify unique products or services. In the US, lasts 10 years and can be renewed."
+        },
+        {
+            "id": 63,
+            "que": "Define: copyright",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": "Protects and original artistic work. Not as strong as patent protection, but the length of protection is much greater. Weakest from of IP protection."
+        },
+        {
+            "id": 1,
+            "que": "",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
+        },
+        {
+            "id": 1,
+            "que": "",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
+        },
+        {
+            "id": 1,
+            "que": "",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
+        },
+        {
+            "id": 1,
+            "que": "",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
+        },
+        {
+            "id": 1,
+            "que": "",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
+        },
+        {
+            "id": 1,
+            "que": "",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
+            "ans": ""
         }
     ]
 }
