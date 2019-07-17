@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "que": "The CIA triad is considered centra to security. Which option best describes what it helps protect against?",
+            "que": "The CIA triad is considered central to security. Which option best describes what it helps protect against?",
             "a": "A. Disclosure, loss, and leakage",
             "b": "B. Destruction, alteration, and disclosure",
             "c": "C. Confidentiality, integrity, and availability",
@@ -93,10 +93,10 @@
         {
             "id": 11,
             "que": "True or false? Patent protection is stronger and lasts longer than copyright protection.",
-            "a": "A. Empty me",
-            "b": "B. ",
-            "c": "C. ",
-            "d": "D. ",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
             "ans": "False"
         },
         {
@@ -129,10 +129,10 @@
         {
             "id": 15,
             "que": "True or false? In a Platform as a service (PaaS) model, the responsibility for security is on the vendor.",
-            "a": "A. Empty me",
-            "b": "B. ",
-            "c": "C. ",
-            "d": "D. ",
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": "",
             "ans": "False"
         },
         {
