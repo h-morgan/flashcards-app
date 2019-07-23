@@ -277,7 +277,7 @@
             "b": "",
             "c": "",
             "d": "",
-            "ans": "The likelihood of a threat occurring, as well as its potential damage to assets."
+            "ans": "The likelihood of a threat occurring, as well as its potential damage to assets. Risk = Threat x Vulnerability x Consquence."
         },
         {
             "id": 32,
@@ -649,22 +649,22 @@
             "ans": "Minimum security required for a system or process."
         },
         {
-            "id": 1,
-            "que": "",
+            "id": 73,
+            "que": "List some examples of areas of potential vulnerabilities.",
             "a": "",
             "b": "",
             "c": "",
             "d": "",
-            "ans": ""
+            "ans": "Physical structure (doors, windows), electrical, software, network, personnel, hardware, documentation, process."
         },
         {
-            "id": 1,
-            "que": "",
+            "id": 74,
+            "que": "Risk assessment determination factors: likelihood -- define and calculate ARO for a flood that occurs every 10 years.",
             "a": "",
             "b": "",
             "c": "",
             "d": "",
-            "ans": ""
+            "ans": "How likely is it that the threat occurrs? Annualized Rate of Occurrence (ARO) = event number / years. -- If a flood occurs every 10 years, the ARO is 10%."
         },
         {
             "id": 1,
